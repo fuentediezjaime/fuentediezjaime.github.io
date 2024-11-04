@@ -1,6 +1,6 @@
 ---
 layout: single ## Slate does not include a home layout type
-title: "Bienvenidos a mi página de investigación"
+title: "Who am I"
 author_profile: true
 ---
 
