@@ -1,6 +1,7 @@
 ---
 layout: default ## Slate does not include a home layout type
 title: "About me"
+permalink: /about/
 ---
 
 # About
