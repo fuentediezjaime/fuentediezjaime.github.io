@@ -12,9 +12,9 @@ plugins:
   - jekyll-include-cache
 
 
+# Set the skin (version of the theme in terms of colors and contrasts)
+#skin: "dark"
 # Configuring the sidebar
 #sidebar:
 #nav: "sidebar"
 
-# Set the skin (version of the theme in terms of colors and contrasts)
-skin: "dark"
