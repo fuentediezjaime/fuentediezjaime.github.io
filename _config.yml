@@ -132,9 +132,9 @@ google:
 # Site Author
 author:
   name             : "Jaime de la Fuente"
-  avatar           : "myphoto.jpg"
+  avatar           : "recorte_1.jpeg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Paris, France"
   email            : "fuentediezjaime@gmail.com"
   links:
     - label: "Email"
