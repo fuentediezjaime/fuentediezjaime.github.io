@@ -137,8 +137,8 @@ author:
   location         : "Paris, France"
   email            : "fuentediezjaime@gmail.com"
   links:
-    #    - label: "Email"
-      #      icon: "fas fa-fw fa-envelope-square"
+    - label: "fuentediezjaime@gmail.com"
+      icon: "fas fa-fw fa-envelope-square"
       # url: "fuentediezjaime@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
