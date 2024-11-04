@@ -5,7 +5,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 #title: Jaime de la Fuente
 
 # Set the skin
-minimal_mistakes_skin: "dark"  #, "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "neon"  #, "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # This needs to be added for seo and also for Github Pages compilation
 plugins:
