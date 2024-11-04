@@ -1,5 +1,12 @@
 ## Config page of my jekyll website on Github.
 name: Jaime de la Fuente
-theme: jekyll-theme-slate
+###theme: jekyll-theme-slate
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 title: Jaime de la Fuente
-description: wassup 
+description: wassup
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
