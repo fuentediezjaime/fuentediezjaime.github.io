@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default ## Slate does not include a home layout type
 title: "Bienvenidos a mi página de investigación"
 ---
 
