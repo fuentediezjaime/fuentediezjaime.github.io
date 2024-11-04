@@ -35,7 +35,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Jaime de la Fuente"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -135,15 +135,17 @@ author:
   avatar           : "recorte_2.jpeg"
   bio              : "Physical and Computational Chemistry"
   location         : "Paris, France"
-    #  email            : "fuentediezjaime@gmail.com"
   links:
-    #    - label: "fuentediezjaime@gmail.com"
-    #  icon: "fas fa-fw fa-envelope-square"
-      # url: "fuentediezjaime@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
        url: "https://github.com/fuentediezjaime"
 
+
+
+#email            : "fuentediezjaime@gmail.com"
+    #    - label: "fuentediezjaime@gmail.com"
+    #  icon: "fas fa-fw fa-envelope-square"
+      # url: "fuentediezjaime@gmail.com"
 # Site Footer
 #footer:
 #  links:
