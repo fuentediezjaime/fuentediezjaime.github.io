@@ -15,3 +15,6 @@ plugins:
 # Configuring the sidebar
 sidebar:
   nav: "sidebar"
+
+# Set the skin (version of the theme in terms of colors and contrasts)
+skin: "dark"

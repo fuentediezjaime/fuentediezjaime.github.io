@@ -1,5 +1,6 @@
 main:
   - title: "Inicio"
     url: /
-
+  - titl: "About"
+    url: /about/
 
