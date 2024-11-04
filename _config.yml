@@ -6,7 +6,7 @@ title: Jaime de la Fuente
 description: wassup
 
 # Set the skin
-minimal_mistakes_skin: "contrast"  #, "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "dark"  #, "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # This needs to be added for seo and also for Github Pages compilation
 plugins:
