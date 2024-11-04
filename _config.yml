@@ -135,17 +135,18 @@ author:
   avatar           : "recorte_2.jpeg"
   bio              : "Physical and Computational Chemistry"
   location         : "Paris, France"
+  email            : "fuentediezjaime@gmail.com"
   links:
+    - label: "fuentediezjaime@gmail.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "fuentediezjaime@gmail.com"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/fuentediezjaime"
+      url: "https://github.com/fuentediezjaime"
 
 
 
-#email            : "fuentediezjaime@gmail.com"
-    #    - label: "fuentediezjaime@gmail.com"
-    #  icon: "fas fa-fw fa-envelope-square"
-      # url: "fuentediezjaime@gmail.com"
 # Site Footer
 #footer:
 #  links:
