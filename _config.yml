@@ -6,7 +6,7 @@ title: Jaime de la Fuente
 description: wassup
 
 # Set the skin
-skin: "dark"
+minimal_mistakes_skin: "dark"
 # This needs to be added for seo and also for Github Pages compilation
 plugins:
   - jekyll-feed
