@@ -39,8 +39,6 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Jaime de la Fuente"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -136,7 +134,7 @@ author:
   avatar           : "recorte_2.jpeg"
   bio              : "Physical and Computational Chemistry"
   location         : "Paris, France"
-#  email            : "fuentediezjaime@gmail.com"
+  email            : "fuentediezjaime@gmail.com"
   links:
     - label: "fuentediezjaime@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
