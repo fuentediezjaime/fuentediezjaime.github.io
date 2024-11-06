@@ -5,17 +5,9 @@ author_profile: true
 ---
 
 # Studies
-I am a soon to graduate PhD in physical chemistry. I was born in Spain, and since I was a kid my favourite game was to mix different things (mostly from the kitchen) to see what happened (normally nothing, except for the famous vinegar + bicarbonate combo). Not surprisingly, some years later I decided to enroll in a bachelor in Chemistry at the University of Valladolid, my hometown.
+I am a soon to graduate PhD in Physical Chemistry. I was born in Spain, at the city of Valladolid. Since I was a kid my favourite game was to mix different things (mostly from the kitchen) to see what happened (normally nothing, except for the famous vinegar + bicarbonate combo and some "curious" tastes). Not surprisingly, some years later I decided to enroll in a bachelor in Chemistry at the University of Valladolid, and this led me to specialize in theoretical chemistry by attending th European Master's in Theoretical Chemistry and Computational Modelling from the University of Valladolid, which belongs to the european consortium organizing the mmaster. In Valladolid I worked in astrochemistry under the supervision of professor Carmen Barrientos, using electronic structure simulations and optimization to obtain the IR spectra of some aromatic molecules that can exist in the interstellar medium, as well as to determine if their formation is feasible in gas clouds through bimolecular colisions. 
 
-Towards the end of my bachelor's I did my undergraduate thesis under the supervision of professor Carmen Barrientos, during which I carried out a computational study dealing the possible formation of some aromatic molecules of astrochemical interest in the Interstellar Medium. In particular, I studied the formation of simple molecules through bimolecular collisions between bezene and relatively abundant fragments in gas clouds, such as CN radicals. In order to do that, I used the Gaussian electronic structure suite to optimize the structures of both reactants and products as well as to obtain estimates of their free energies. Also, I performed transtion state searches to evaluate the barrier of activation of the hypothetical reactions.
+Later on, I did my master thesis under an Erasmus Mundus+ scholarship at Ecole Normale Supérieure in Paris. I worked under the supervision of professors Rodolphe Vuilleumier (ENS), Riccardo Spezia (Sorbonne and CNRS) and Carmen Barrientos on simulations Vibrational Strong Coupling, during which I built a Path Integral Monte Carlo code from scratch to study the spectroscopy of a simple molecular system under coupling to the zero point fluctuations of the electric field of an optical cavity.
 
-Furthermore, as chemical species in the interstellar mediu
+At the end of my Master's I was given the opportunity to continue my research under the supervision of professors Vuilleumier and Spezia as a PhD student at ENS Paris, which I am expecting to finish in December. During the last three years of PhD I have become experienced in Path Integral Methods of molecular simulation, as well as developed a considerable amount of software.
 
-To increase our knowledge about these structures, the topological analysis of their electronic density, in particular its critical points as well as its laplacian was done using the Atoms In Molecules (AIM) suite of programs by .
-
-
-It was during this project when I discovered my interest for computational physical chemistry. This led me to enroll in the European Master in Theoretical Chemistry and Computational Modelling (EM-TCCM) at the University of Valladolid, which is a member of the international consortium organizing the Master.
-
-# Projects.
-
-# Hobbies.
