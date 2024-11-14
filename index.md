@@ -15,4 +15,4 @@ I am interested at multiple aspects of computational chemistry. I’m fascinated
 I’m also working on machine learning applications in chemistry, developing simple models for university data challenges and collaborating on new molecular descriptors that incorporate quantum information. It’s exciting to be at the intersection of these fields, pushing the boundaries of what we can predict about molecular behavior. You can find some of this projects on my GitHub profile (or you will soon enough). If you think that we can colaborate or discuss, do not hesitate on writing a message! 
 
 # Projects
-1) A Path Integral Monte Carlo software considering the coupling of N anharmonic molecules to the zero-point fluctuations of a mode of the vector potential of an electromagnetic cavity. [Check it on GitHub](https://github.com/ENS-CHTHEO/MoMaVSC-pimc)
+1) Path Integral Monte Carlo code considering the coupling of N anharmonic molecules to the zero-point fluctuations of a mode of the vector potential of a Fabry-Perot cavity. [GitHub link](https://github.com/ENS-CHTHEO/MoMaVSC-pimc)
