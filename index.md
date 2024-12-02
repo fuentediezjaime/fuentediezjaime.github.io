@@ -1,5 +1,5 @@
 ---
-layout: home ##home ## Slate does not include a home layout type
+layout: single ##home ## Slate does not include a home layout type
 title: "About me"
 author_profile: true
 ---
