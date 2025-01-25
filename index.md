@@ -4,7 +4,7 @@ title: "About me"
 author_profile: true
 ---
 
-I’m a soon-to-graduate PhD in Physical Chemistry, specializing in path integral simulations to study Vibrational Strong Coupling (VSC) under Professor Rodolphe Vuilleumier at ENS Paris. My work focuses on understanding how VSC impacts molecular behavior, combining theory with computational modeling to explore quantum effects in complex chemical systems.
+I’m a PhD in Physical Chemistry, specialized in path integral simulations to study Vibrational Strong Coupling (VSC) under Professor Rodolphe Vuilleumier at ENS Paris. My work focuses on understanding how VSC impacts molecular behavior, combining theory with computational modeling to explore quantum effects in complex chemical systems.
 
 Originally from Valladolid, Spain, I’ve been hooked on chemistry since childhood, when my favorite “experiments” involved mixing things from the kitchen (usually without much success—except the iconic vinegar and baking soda reaction). This early curiosity grew into a more serious path: I earned my Bachelor’s in Chemistry at the University of Valladolid, followed by a European Master’s in Theoretical Chemistry and Computational Modelling, where I graduated with honors, receiving the Extraordinary Master’s Award. An Erasmus+ fellowship brought me to ENS Paris for my master’s thesis, and I decided to stay on for a PhD with Professor Vuilleumier.
 
